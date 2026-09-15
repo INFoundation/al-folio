@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My doctoral project focuses on how large language models and AI are implemented in central government.
+I am a PhD candidate in Political Science, within Public Administration, at the Norwegian University of Science and Technology (NTNU). My research interests include public administration and management, public servants, artificial intelligence, and digitalization, broadly in a Nordic context. Methodologically, I work with quantitative methods, using both surveys and survey experiments.
