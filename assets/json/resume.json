@@ -7,7 +7,10 @@
     "phone": "+47 73 41 27 86",
     "summary": "PhD Candidate at the Department of Sociology and Political Science, NTNU.",
     "location": {
+      "address": "Bygg 7 Dragvoll",
       "city": "Trondheim",
+      "region": "Trøndelag",
+      "postalCode": "7546",
       "countryCode": "NO"
     },
     "profiles": [

@@ -12,8 +12,10 @@ cv:
       username: eskil-gaasø-indrestrand-7ba917369
 
   address:
+    street: Bygg 7 Dragvoll
     city: Trondheim
     region: Trøndelag
+    postalCode: "7546"
     countryCode: NO
 
   sections:
