@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at the Department of Sociology and Political Science at NTNU. My doctoral project focuses on how large language models and AI are implemented in central government.
+My doctoral project focuses on how large language models and AI are implemented in central government.
