@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Political Science at the Norwegian University of Science and Technology (NTNU), specializing in public administration. My research examines how artificial intelligence and digitalization are transforming Norway's central government, spanning ministries and directorates. I focus on public servants' everyday work, with the adoption of AI chatbot assistants as a key case. These questions are situated in a broader Nordic context. I approach them empirically, using surveys, survey experiments, and computational text analysis.
+I am a PhD candidate in Political Science at the Norwegian University of Science and Technology (NTNU), specializing in public administration. My research examines how artificial intelligence and digitalization are transforming Norway's central government, spanning ministries and directorates. I focus on public servants' everyday work, with the adoption of AI chatbot assistants as a key case. I approach these questions empirically, using surveys, survey experiments, and computational text analysis.
