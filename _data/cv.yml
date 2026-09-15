@@ -11,10 +11,7 @@ cv:
       username: eskil-gaasø-indrestrand-7ba917369
 
   address:
-    street: ""
     city: Trondheim
-    region: ""
-    postalCode: ""
     countryCode: NO
 
   sections:
