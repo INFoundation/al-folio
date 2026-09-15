@@ -30,12 +30,4 @@ latest_posts:
 
 I am a PhD candidate at the Department of Sociology and Political Science at NTNU. My doctoral project focuses on how large language models and AI are implemented in central government.
 
-I am a part of the research groups Public Policy and Administration; Technology and Social Change; and EVPOC (Elections, Values, and Political Communication). I have taught the course POL2017, and I have previously served as lecturer in the teacher education programme, as well as a part of the teaching staff in statistics at the master's and PhD levels at the SU faculty.
-
-I have been involved in the following boards and councils:
-
-- Department Board (2025–2026)
-- Faculty Board, Programme Council for PhD Candidates at SU, Research Committee (2026–2027)
-- NTNU Board (2026–2027)
-
 Below you will find my publications, teaching, and news.
