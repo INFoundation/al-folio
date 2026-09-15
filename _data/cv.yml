@@ -12,13 +12,13 @@ cv:
 
   address:
     city: Trondheim
+    region: Trøndelag
     countryCode: NO
 
   sections:
     Education:
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
-        url: https://www.ntnu.edu/
         area: Political Science
         studyType: Master
         start_date: 2021
@@ -42,17 +42,33 @@ cv:
         position: PhD Candidate
         location: Trondheim, Norway
         start_date: 2025
-        end_date: Present
+        end_date: present
         summary: My doctoral project focuses on how large language models and AI are implemented in central government.
         highlights:
           - "Member of the research groups Public Policy and Administration; Technology and Social Change; and EVPOC (Elections, Values, and Political Communication)."
-          - "Taught the course POL2017 (Specialization in Political Science: Public Policy and Administration)."
-          - "Previously served as lecturer in the teacher education programme (SAM1020, Citizenship Education)."
-          - "Elected and appointed roles: Department Board (2025-2026); Faculty Board, Programme Council for PhD Candidates at SU, Research Committee (2026-2027); NTNU Board (2026-2027)."
           - "Reviewer for Public Management Review and International Journal of Public Administration."
           - "Member of the local organizing committee for the International Research Society in Public Management (IRSPM) 2027 conference in Trondheim (2026-2027)."
           - "Member of NORA HS, the Norwegian AI Research School for Humanities and Society (until 2028)."
           - "Member of Digit, The Norwegian Research School on Digitalization, Culture, and Society (2026-2028)."
+
+      - company: NTNU, Department of Sociology and Political Science
+        position: Elected and Appointed Boards and Councils
+        location: Trondheim, Norway
+        start_date: 2025
+        end_date: 2027
+        highlights:
+          - "Department Board (2025-2026)"
+          - "Faculty Board, Programme Council for PhD Candidates at SU, Research Committee (2026-2027)"
+          - "NTNU Board (2026-2027)"
+
+      - company: NTNU, Department of Sociology and Political Science
+        position: Lecturer
+        location: Trondheim, Norway
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - "POL2017, Specialization in Political Science: Public Policy and Administration (2026)"
+          - "SAM1020, Citizenship Education, as lecturer in the teacher education programme (2025)"
 
       - company: ISS, NTNU (Department of Sociology and Political Science, SU Faculty)
         position: Teaching Staff
