@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Political Science at the Norwegian University of Science and Technology (NTNU), where my research sits within public administration. My work explores how artificial intelligence and digitalization are reshaping public administration and management, with particular attention to public servants and their everyday work, largely in a Nordic context. I approach these questions empirically, drawing on quantitative methods such as surveys, survey experiments, and computational text analysis.
+I am a PhD candidate in Political Science at the Norwegian University of Science and Technology (NTNU), where my research sits within public administration. My work explores how artificial intelligence and digitalization are reshaping the central government level in Norway — ministries and directorates — with particular attention to public servants, their everyday work, and how AI is implemented in practice, largely in a Nordic context. I approach these questions empirically, drawing on quantitative methods such as surveys, survey experiments, and computational text analysis.
