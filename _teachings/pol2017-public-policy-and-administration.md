@@ -4,6 +4,7 @@ title: POL2017 - Specialization in Political Science - Public Policy and Adminis
 description: "Taught the course POL2017, Specialization in Political Science: Public Policy and Administration."
 instructor: Eskil Gaasø Indrestrand
 year: 2026
+term: Spring
 location: NTNU, Department of Sociology and Political Science, Trondheim
 course_id: POL2017
 ---
