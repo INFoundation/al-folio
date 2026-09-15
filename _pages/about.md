@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Political Science, within Public Administration, at the Norwegian University of Science and Technology (NTNU). My research interests include public administration and management, public servants, artificial intelligence, and digitalization, broadly in a Nordic context. Methodologically, I work with quantitative methods, including surveys, survey experiments, and computational text analysis.
+I am a PhD candidate in Political Science at the Norwegian University of Science and Technology (NTNU), where my research sits within public administration. My work explores how artificial intelligence and digitalization are reshaping public administration and management, with particular attention to public servants and their everyday work, largely in a Nordic context. I approach these questions empirically, drawing on quantitative methods such as surveys, survey experiments, and computational text analysis.
