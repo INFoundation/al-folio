@@ -8,3 +8,8 @@ work_url: https://www.ntnu.edu/employees/eskil.g.indrestrand
 orcid_id: 0009-0000-8478-791X
 scholar_userid: OHByAckAAAAJ
 rss_icon: true # comment this line to hide the RSS icon
+
+web_of_science:
+  logo: https://www.webofscience.com/favicon.ico
+  title: Web of Science
+  url: https://www.webofscience.com/wos/author/record/PGF-8962-2026
