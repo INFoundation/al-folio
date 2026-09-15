@@ -1,9 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-# TODO: fill in your real values below (github_username intentionally omitted for now)
-email: your.email@ntnu.no # TODO: replace with your real (preferably NTNU) email address
+# github_username intentionally omitted for now
+email: eskil.g.indrestrand@ntnu.no
+linkedin_username: eskil-gaasø-indrestrand-7ba917369
+work_url: https://www.ntnu.edu/employees/eskil.g.indrestrand
 orcid_id: 0000-0000-0000-0000 # TODO: replace with your real ORCID iD
-linkedin_username: your-linkedin-username # TODO: replace with your real LinkedIn username
 scholar_userid: your-scholar-id # TODO: replace with your real Google Scholar user ID
 rss_icon: true # comment this line to hide the RSS icon
