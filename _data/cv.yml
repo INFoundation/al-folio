@@ -21,8 +21,7 @@ cv:
     Education:
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
-        area: Political Science
-        studyType: Master
+        studyType: Master's Degree in Political Science
         start_date: 2021
         end_date: 2023
         score: ""
@@ -32,8 +31,7 @@ cv:
 
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
-        area: Political Science
-        studyType: Bachelor
+        studyType: Bachelor's Degree in Political Science
         start_date: 2017
         end_date: 2020
 
