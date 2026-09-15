@@ -30,6 +30,6 @@ latest_posts:
 
 I am a PhD Research Fellow at the Department of Sociology and Political Science, Norwegian University of Science and Technology (NTNU). My research focuses on how AI affects decision-making and productivity in the Norwegian central government.
 
-I am a member of the research groups Public Policy and Administration, and Technology and Social Change, and I am affiliated with the research schools NORA (Norwegian Artificial Intelligence Research Consortium) and Digit (The Norwegian Research School on Digitalization, Culture and Society). I also lecture in the Specialization in Public Administration and the Master's Programme in Teacher Education.
+I am a member of the research groups Public Policy and Administration, and Technology and Social Change. I am a member of NORA HS, the Norwegian AI Research School for Humanities and Society (until 2028), and of Digit, The Norwegian Research School on Digitalization, Culture, and Society (2026-2028).
 
 Below you will find my publications, teaching, and news.
