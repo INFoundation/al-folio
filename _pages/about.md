@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Research Fellow, Department of Sociology and Political Science, NTNU
+subtitle: PhD Candidate, Department of Sociology and Political Science, NTNU
 
 profile:
   align: right
@@ -28,8 +28,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Research Fellow at the Department of Sociology and Political Science, Norwegian University of Science and Technology (NTNU). My research focuses on how AI affects decision-making and productivity in the Norwegian central government.
+I am a PhD candidate at the Department of Sociology and Political Science at NTNU. My doctoral project focuses on how large language models and AI are implemented in central government.
 
-I am a member of the research groups Public Policy and Administration, and Technology and Social Change. I am a member of NORA HS, the Norwegian AI Research School for Humanities and Society (until 2028), and of Digit, The Norwegian Research School on Digitalization, Culture, and Society (2026-2028).
+I am a part of the research group Public Policy and Administration. I have taught the course POL2017, and I have previously served as lecturer in the teacher education programme, as well as a part of the teaching staff in statistics at the master's and PhD levels at the SU faculty.
+
+I have been involved in the following boards and councils:
+
+- Department Board (2025–2026)
+- Faculty Board, Programme Council for PhD Candidates at SU, Research Committee (2026–2027)
+- NTNU Board (2026–2027)
 
 Below you will find my publications, teaching, and news.

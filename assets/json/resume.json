@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Eskil Gaasø Indrestrand",
-    "label": "PhD Research Fellow",
+    "label": "PhD Candidate",
     "image": "",
     "email": "eskil.g.indrestrand@ntnu.no",
     "phone": "+47 73 41 27 86",
-    "summary": "PhD Research Fellow at the Department of Sociology and Political Science, NTNU.",
+    "summary": "PhD Candidate at the Department of Sociology and Political Science, NTNU.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,15 +24,15 @@
   "work": [
     {
       "name": "NTNU, Department of Sociology and Political Science",
-      "position": "PhD Research Fellow",
+      "position": "PhD Candidate",
       "location": "Trondheim, Norway",
       "startDate": "2025-01-01",
       "endDate": "",
-      "summary": "Research focus: how AI affects decision-making and productivity in the Norwegian central government.",
+      "summary": "My doctoral project focuses on how large language models and AI are implemented in central government.",
       "highlights": [
         "Lectured in POL2017 (Specialization in Political Science: Public Policy and Administration) and SAM1020 (Citizenship Education) — no longer teaching either course.",
         "Member of the research groups Public Policy and Administration, and Technology and Social Change.",
-        "Elected and appointed roles: Department Board (2025-2026); Faculty PhD Programme Committee (2026-2027); Faculty Board, Research Committee, and Hiring Committee (2026-2027); NTNU Board (2026-2027).",
+        "Elected and appointed roles: Department Board (2025-2026); Faculty Board, Programme Council for PhD Candidates at SU, Research Committee (2026-2027); NTNU Board (2026-2027).",
         "Reviewer for Public Management Review and International Journal of Public Administration.",
         "Local organizing committee, International Research Society for Public Management (IRSPM) conference 2027.",
         "Member of NORA HS, the Norwegian AI Research School for Humanities and Society (until 2028).",
@@ -40,8 +40,8 @@
       ]
     },
     {
-      "name": "NTNU, Department of Sociology and Political Science",
-      "position": "Teaching Staff",
+      "name": "ISS, NTNU (Department of Sociology and Political Science)",
+      "position": "Teaching Assistant",
       "location": "Trondheim, Norway",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
