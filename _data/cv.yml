@@ -18,6 +18,14 @@ cv:
     campus: Dragvoll Campus, Building 7, Room 7546
 
   sections:
+    Conferences:
+      - bullet: "ENPA 2026, Bucharest"
+      - bullet: "ECPR Joint Sessions 2026, Innsbruck"
+      - bullet: "ICOS 2026, Potsdam"
+      - bullet: "DIGIT: Digital Past, Present and Futures, 2026, Oslo"
+      - bullet: "Cyborg 2026, Brussels"
+      - bullet: "Also attended a number of conferences in Norway."
+
     Education:
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
