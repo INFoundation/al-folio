@@ -29,5 +29,3 @@ latest_posts:
 ---
 
 I am a PhD candidate at the Department of Sociology and Political Science at NTNU. My doctoral project focuses on how large language models and AI are implemented in central government.
-
-Below you will find my publications, teaching, and news.
