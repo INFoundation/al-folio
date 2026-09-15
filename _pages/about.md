@@ -12,7 +12,6 @@ profile:
     <p>Department of Sociology and Political Science</p>
     <p>Norwegian University of Science and Technology (NTNU)</p>
     <p>Trondheim, Norway</p>
-    <p>+47 73 41 27 86</p>
 
 selected_papers: false # TODO: re-enable once real publications are added to _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
