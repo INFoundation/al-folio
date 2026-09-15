@@ -12,10 +12,10 @@ cv:
       username: eskil-gaasø-indrestrand-7ba917369
 
   address:
-    street: Dragvoll Campus, Building 7, Room 7546
     city: Trondheim
     region: Trøndelag
     countryCode: NO
+    campus: Dragvoll Campus, Building 7, Room 7546
 
   sections:
     Education:
