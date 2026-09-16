@@ -8,7 +8,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Publications coming soon. To be determined.
+To be determined.
 
 <!-- Bibsearch Feature -->
 
