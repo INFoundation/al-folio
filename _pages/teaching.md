@@ -3,11 +3,13 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
-nav: false
+nav: true
 nav_order: 6
 calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I have been a lecturer/teaching staff on the following courses:
 
-{% include courses.liquid %}
+- **SOS3003** - Applied Statistics, Teaching Staff, 2022-2023
+- **SAM1020** - Citizenship Education, Lecturer, 2025
+- **POL2017** - Specialization in Political Science: Public Policy and Administration, Lecturer, 2026
