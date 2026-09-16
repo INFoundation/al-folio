@@ -10,4 +10,4 @@ course_id: SAM1020
 
 ## Course Overview
 
-I previously served as lecturer, teaching SAM1020, Citizenship Education (Norwegian: Medborgerutdanning), as part of my PhD studies at NTNU. I am no longer teaching this course.
+I previously served as lecturer, teaching SAM1020, Citizenship Education (Norwegian: Medborgerutdanning).
