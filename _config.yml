@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Eskil
 middle_name: Gaasø
 last_name: Indrestrand
-contact_note: >
-  Feel free to reach out by email with questions about my research or teaching.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Eskil Gaasø Indrestrand, PhD Candidate at the Department of Sociology and Political Science, NTNU.
 footer_text: >
