@@ -8,6 +8,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+Publications coming soon. To be determined.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
