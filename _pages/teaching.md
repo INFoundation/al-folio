@@ -10,6 +10,6 @@ calendar: false
 
 I have been a lecturer/teaching staff on the following courses:
 
-- **SOS3003** - Applied Statistics, Teaching Staff, 2022-2023
-- **SAM1020** - Citizenship Education, Lecturer, 2025
-- **POL2017** - Specialization in Political Science: Public Policy and Administration, Lecturer, 2026
+- **POL2017** - Specialization in Political Science: Public Policy and Administration, Lecturer, NTNU, 2026
+- **SAM1020** - Citizenship Education, Lecturer, NTNU, 2025
+- **SOS3003** - Applied Statistics, Teaching Staff, NTNU, 2022-2023
