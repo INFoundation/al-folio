@@ -1,14 +1,14 @@
 ---
 layout: page
 title: AI@GOV
-description: My PhD project on how AI is implemented and used in the Norwegian central government.
+description: My PhD project (2025-2028) on how AI is implemented and used in the Norwegian central government.
 img: assets/img/ai-gov-bg.svg
 importance: 1
 category: work
 related_publications: false
 ---
 
-AI@GOV is my PhD project, examining how AI is implemented and used in the Norwegian central government, and how this affects administrative roles, professional judgment, and public sector governance.
+AI@GOV is my PhD project (2025-2028), examining how AI is implemented and used in the Norwegian central government, and how this affects administrative roles, professional judgment, and public sector governance.
 
 ## Working papers
 
