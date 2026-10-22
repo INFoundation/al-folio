@@ -19,8 +19,15 @@ cv:
 
   sections:
     Conferences Attended:
-      - bullet: "**International:** ENPA 2026, Bucharest; ECPR Joint Sessions 2026, Innsbruck; ICOS 2026, Potsdam; DIGIT: Digital Past, Present and Futures, 2026, Oslo; Cyborg 2026, Brussels."
-      - bullet: "**National:** Norwegian National Conference in Political Science (Nasjonal fagkonferanse i statsvitenskap), 2026, Trondheim; 2027, Tromsø (upcoming)."
+      - bullet: "**International**"
+      - bullet: "ENPA 2026, Bucharest"
+      - bullet: "ECPR Joint Sessions 2026, Innsbruck"
+      - bullet: "ICOS 2026, Potsdam"
+      - bullet: "DIGIT: Digital Past, Present and Futures, 2026, Oslo"
+      - bullet: "CYBORG WORKERs 3.0: Digital Sovereignty at Work, 2026, Brussels"
+      - bullet: "**National**"
+      - bullet: "Norwegian National Conference in Political Science (Nasjonal fagkonferanse i statsvitenskap), 2026, Trondheim"
+      - bullet: "Norwegian National Conference in Political Science (Nasjonal fagkonferanse i statsvitenskap), 2027, Tromsø (upcoming)"
 
     Boards and Councils:
       - bullet: "Department Board, Department of Sociology and Political Science, NTNU (2025-2026)"
