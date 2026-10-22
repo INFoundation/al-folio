@@ -19,14 +19,12 @@ cv:
 
   sections:
     Conferences Attended:
-      - bullet: "**International**"
       - bullet: "ENPA 2026, Bucharest"
       - bullet: "ECPR Joint Sessions 2026, Innsbruck"
       - bullet: "ICOS 2026, Potsdam"
       - bullet: "DIGIT: Digital Past, Present and Futures, 2026, Oslo"
-      - bullet: "CYBORG WORKERs 3.0: Digital Sovereignty at Work, 2026, Brussels"
+      - bullet: "Cyborg Workers 3.0: Digital Sovereignty at Work, 2026, Brussels"
       - bullet: "International Research Society in Public Management (IRSPM) 2027, Trondheim (upcoming)"
-      - bullet: "**National**"
       - bullet: "Norwegian National Conference in Political Science (Nasjonal fagkonferanse i statsvitenskap), 2026, Trondheim"
       - bullet: "Norwegian National Conference in Political Science (Nasjonal fagkonferanse i statsvitenskap), 2027, Tromsø (upcoming)"
 
